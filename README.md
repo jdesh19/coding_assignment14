@@ -8,6 +8,6 @@ to build
 `docker build -t desharnais_jaron_coding_assignment14 .`
 
 to run:
-docker run -p 5575:5575 desharnais_jaron_coding_assignment14
+`docker run -p 5575:5575 desharnais_jaron_coding_assignment14`
 
 navigate to: http://localhost:5575
